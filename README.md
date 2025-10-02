@@ -7,6 +7,14 @@ The goal: **move from guided learning → real-world problem solving in Jupyter*
 
 ---
 
+## 📑 Table of Contents
+- [Exercises](#-exercises)
+- [Setup & Usage](#-setup--usage)
+- [Learning Goals](#-learning-goals)
+- [About Me](#-about-me)
+
+---
+
 ## 📂 Repository Structure
 python-math-exercises/
 │
@@ -41,3 +49,26 @@ python-math-exercises/
    ```bash
    git clone https://github.com/cleburn/python-math-exercises.git
    cd python-math-exercises
+
+2.	Install dependencies (most are standard in Jupyter):
+    pip install numpy matplotlib
+
+3.	Launch Jupyter:
+    jupyter lab
+
+4.	Open any notebook and run the cells.
+
+🎯 Learning Goals
+	•	Practice Python fundamentals (loops, lists, dicts, functions).
+	•	Build intuition for linear algebra & probability through code.
+	•	Get comfortable with NumPy and matplotlib.
+	•	Develop Git + GitHub workflow habits (add → commit → push).
+
+👤 About Me
+
+Hi, I’m Cleburn Walker — a lifelong learner exploring the intersection of math, AI, and problem-solving with Python.
+I’m currently building a strong foundation in machine learning, data analysis, and AI engineering while documenting the journey through daily coding exercises and projects.
+	•	📍 Based in Texas, USA
+	•	💻 Background in sales, real estate investing, & business consulting
+	•	🚀 Pivoting into AI/ML engineering with a focus on practical projects and portfolio building
+	•	🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/cleburnwalker)
