@@ -8,11 +8,11 @@ The goal: **move from guided learning → real-world problem solving in Jupyter*
 ---
 
 ## Table of Contents 📑
-- [Repository Structure](#repository-structure)
-- [Exercises](#exercises)
-- [Setup & Usage](#setup--usage)
-- [Learning Goals](#learning-goals)
-- [About Me](#about-me)
+- [Repository Structure](#repository-structure-)
+- [Exercises](#exercises-%EF%B8%8F)
+- [Setup & Usage](#setup--usage-)
+- [Learning Goals](#learning-goals-)
+- [About Me](#about-me-)
 
 ---
 
@@ -51,7 +51,7 @@ python-math-exercises/
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/python-math-exercises.git
+   git clone https://github.com/cleburn/python-math-exercises.git
    cd python-math-exercises
    ```
 
