@@ -8,10 +8,10 @@ The goal: **move from guided learning → real-world problem solving in Jupyter*
 ---
 
 ## 📑 Table of Contents
-- [Exercises](#-exercises)
-- [Setup & Usage](#-setup--usage)
-- [Learning Goals](#-learning-goals)
-- [About Me](#-about-me)
+- [Exercises](#exercises)
+- [Setup & Usage](#setup--usage)
+- [Learning Goals](#learning-goals)
+- [About Me](#about-me)
 
 ---
 
@@ -73,4 +73,4 @@ I’m currently building a strong foundation in machine learning, data analysis,
 	•	📍 Based in Texas, USA
 	•	💻 Background in sales, real estate investing, & business consulting
 	•	🚀 Pivoting into AI/ML engineering with a focus on practical projects and portfolio building
-	•	🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/cleburnwalker)
+	•	🌐 Connect with me on <a href="https://www.linkedin.com/in/cleburnwalker" target="_blank">LinkedIn</a>
