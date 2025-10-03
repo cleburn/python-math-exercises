@@ -51,9 +51,11 @@ python-math-exercises/
    cd python-math-exercises
 
 2.	Install dependencies (most are standard in Jupyter):
+    ```bash
     pip install numpy matplotlib
 
 3.	Launch Jupyter:
+    ```bash
     jupyter lab
 
 4.	Open any notebook and run the cells.
