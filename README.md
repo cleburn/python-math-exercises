@@ -7,7 +7,7 @@ The goal: **move from guided learning → real-world problem solving in Jupyter*
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents 📑
 - [Repository Structure](#repository-structure)
 - [Exercises](#exercises)
 - [Setup & Usage](#setup--usage)
@@ -16,7 +16,7 @@ The goal: **move from guided learning → real-world problem solving in Jupyter*
 
 ---
 
-## 📘 Repository Structure
+## Repository Structure 📘
 
 ```
 python-math-exercises/
@@ -29,7 +29,7 @@ python-math-exercises/
 
 ---
 
-## ✏️ Exercises
+## Exercises ✏️
 
 ### Day 1 – Vectors
 - Implemented vector addition and dot products from scratch.
@@ -47,7 +47,7 @@ python-math-exercises/
 
 ---
 
-## 🔧 Setup & Usage
+## Setup & Usage 🔧
 
 1. Clone the repo:
    ```bash
@@ -69,7 +69,7 @@ python-math-exercises/
 
 ---
 
-## 🎯 Learning Goals
+## Learning Goals 🎯
 - Practice **Python fundamentals** (loops, lists, dicts, functions).
 - Build intuition for **linear algebra & probability** through code.
 - Get comfortable with **NumPy** and **matplotlib**.
@@ -77,7 +77,7 @@ python-math-exercises/
 
 ---
 
-## 👤 About Me
+## About Me 👤
 
 Hi, I’m **Cleburn Walker** — a lifelong learner exploring the intersection of **math, AI, and problem-solving with Python**.  
 I’m currently building a strong foundation in **machine learning, data analysis, and AI engineering** while documenting the journey through daily coding exercises and projects.
